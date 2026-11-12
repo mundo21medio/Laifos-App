@@ -1,0 +1,20 @@
+{
+  "name": "Laifos",
+  "short_name": "Laifos",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#11120f",
+  "theme_color": "#11120f",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/777354/ffffff?text=L",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512/777354/ffffff?text=L",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
